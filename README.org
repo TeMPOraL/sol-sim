@@ -1,0 +1,10 @@
+#+title: Sol Sim
+#+startup: hidestars
+
+/This application is a piece of ancient history; I worked on that circa 2004./
+
+A simple 3D Solar System simulator, written using OpenGL. All orbital parameters (/not/ planet sizes
+though) are based on real data I copied from an astronomy book. I used that project to get a top grade
+on IT classes in secondary school.
+
+Dumping the code here for the sake of history.
